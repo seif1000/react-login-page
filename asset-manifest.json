@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a789017.chunk.css",
-    "main.js": "/static/js/main.c4d38ff0.chunk.js",
-    "main.js.map": "/static/js/main.c4d38ff0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.33c216a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.33c216a3.js.map",
-    "static/js/2.67cf96be.chunk.js": "/static/js/2.67cf96be.chunk.js",
-    "static/js/2.67cf96be.chunk.js.map": "/static/js/2.67cf96be.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8a789017.chunk.css.map": "/static/css/main.8a789017.chunk.css.map",
-    "static/js/2.67cf96be.chunk.js.LICENSE.txt": "/static/js/2.67cf96be.chunk.js.LICENSE.txt",
-    "static/media/blob.5ead7004.svg": "/static/media/blob.5ead7004.svg",
-    "static/media/google.92b8040a.svg": "/static/media/google.92b8040a.svg",
-    "static/media/one.34492b6a.svg": "/static/media/one.34492b6a.svg",
-    "static/media/three.be2697da.svg": "/static/media/three.be2697da.svg",
-    "static/media/two.7f1d837e.svg": "/static/media/two.7f1d837e.svg"
+    "main.css": "/react-login-page/static/css/main.8a789017.chunk.css",
+    "main.js": "/react-login-page/static/js/main.bd92eb18.chunk.js",
+    "main.js.map": "/react-login-page/static/js/main.bd92eb18.chunk.js.map",
+    "runtime-main.js": "/react-login-page/static/js/runtime-main.f4206114.js",
+    "runtime-main.js.map": "/react-login-page/static/js/runtime-main.f4206114.js.map",
+    "static/js/2.488c5c44.chunk.js": "/react-login-page/static/js/2.488c5c44.chunk.js",
+    "static/js/2.488c5c44.chunk.js.map": "/react-login-page/static/js/2.488c5c44.chunk.js.map",
+    "index.html": "/react-login-page/index.html",
+    "static/css/main.8a789017.chunk.css.map": "/react-login-page/static/css/main.8a789017.chunk.css.map",
+    "static/js/2.488c5c44.chunk.js.LICENSE.txt": "/react-login-page/static/js/2.488c5c44.chunk.js.LICENSE.txt",
+    "static/media/blob.5ead7004.svg": "/react-login-page/static/media/blob.5ead7004.svg",
+    "static/media/google.92b8040a.svg": "/react-login-page/static/media/google.92b8040a.svg",
+    "static/media/one.34492b6a.svg": "/react-login-page/static/media/one.34492b6a.svg",
+    "static/media/three.be2697da.svg": "/react-login-page/static/media/three.be2697da.svg",
+    "static/media/two.7f1d837e.svg": "/react-login-page/static/media/two.7f1d837e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33c216a3.js",
-    "static/js/2.67cf96be.chunk.js",
+    "static/js/runtime-main.f4206114.js",
+    "static/js/2.488c5c44.chunk.js",
     "static/css/main.8a789017.chunk.css",
-    "static/js/main.c4d38ff0.chunk.js"
+    "static/js/main.bd92eb18.chunk.js"
   ]
 }
