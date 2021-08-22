@@ -103,7 +103,7 @@ export default function TodoList() {
             <div className='side '>
                 <div className='side_login'>
                     <div className="login">
-                        <p style={{fontSize:40,fontWeight:'bold'}}>Login</p>
+                        <p style={{fontSize:40,margin:'12px 0 0',padding:0,fontWeight:'bold'}}>Login</p>
                         <p style={{fontSize:20}}>get healthy and stay safe</p>
                     </div>
                     <div className="google_div">
