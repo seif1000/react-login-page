@@ -74,7 +74,7 @@ body {
 .side_one_container{
  width: 50%;
  max-width: 50%;
- height: 300px;
+ height: 280px;
  padding: 0;
  position: relative;
  overflow: hidden;
@@ -96,8 +96,8 @@ body {
 }
 .indicator_container{
  width: 50%;
- margin: 48px auto 0px;
- margin-bottom: 50px;
+ margin: 60px auto 0px;
+
  display: flex;
  flex-direction: row;
  justify-content: space-between;
@@ -154,21 +154,25 @@ body {
  font-size: 32px;
  color: white;
  font-weight: bold;
+ padding: 0;
+ margin: 0;
 }
 .text_fade div p:nth-child(2){
  text-align: center;
  font-size: 18px;
  color: white;
+ padding: 0;
+ margin: 12px 0 0;
 }
 
 .side_login{
  width: 85%;
  margin: auto;
- padding: 32px 0;
+
 }
 .google_div{
  width: 100%;
- margin: 32px 0;
+ margin: 16px 0;
 
 }
 .google_div button{
@@ -180,7 +184,7 @@ body {
  flex-direction: row;
  justify-content: center;
  align-items: center;
- padding: 0px;
+ padding: 10px;
  border: 1px solid lightgray;
  border-radius: 32px;
  
@@ -196,7 +200,9 @@ body {
 }
 .google_div button p{
  font-size: 18px;
- padding-top: 12px;
+ margin: 0;
+ padding: 0;
+
  font-weight: bold;
  
 } 
@@ -217,7 +223,7 @@ body {
 }
 .or_email p{
  text-align: center;
- padding-top: 10px;
+ /* padding-top: 10px; */
 }
 .email_pass{
  width: 100%;
